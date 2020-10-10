@@ -1,0 +1,25 @@
+body {
+  font-family: 'Lora', serif;
+  background-color: #fce1e0;
+  color: #000000;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+ }
+
+ #body {
+  display: flex;
+  border: 1px #ccc solid;
+  padding: 10px;
+ }
+
+ #navigation {
+   flex: 1;
+ }
+
+ #center {
+   flex: 3;
+ }
